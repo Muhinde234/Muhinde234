@@ -87,7 +87,7 @@
 - 💡 Building **enterprise-level software solutions**
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/igirimpuhwe-dosta-478a49283/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igirimpuhwe-dosta-478a49283/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igirimpuhwedosta@gmail.com)
 
 ✨ "The only way to do great work is to love what you do!" ✨
