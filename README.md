@@ -62,8 +62,7 @@ A comprehensive bus booking system with real-time tracking and reservation capab
 [![SheCanCode Projects](https://github-readme-stats.vercel.app/api/pin/?username=Muhinde234&repo=shecancode-projects&theme=radical)](https://github.com/Muhinde234/shecancode-projects)
 Collection of projects developed for SheCanCode initiative, showcasing various web and mobile applications.
 
-### 📱 Mobile Applications
-[![Flutter Project](https://github-readme-stats.vercel.app/api/pin/?username=Muhinde234&repo=flutter-project&theme=radical)](https://github.com/Muhinde234/flutter-project)
+
 
 ## 🌟 Goals & Aspirations
 - 🚀 Specializing in **Frontend Development** and **Data Science** ecosystems
