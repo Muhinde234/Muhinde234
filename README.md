@@ -2,7 +2,7 @@
 
 🌸 **Web & Mobile Developer** | 💻 **Tech Enthusiast** | 🦋 **Continuous Learner**
 
-![](https://img.shields.io/badge/Passion-Coding-pink) ![](https://img.shields.io/badge/Style-Creative-purple) ![](https://img.shields.io/badge/Mindset-Growth_orange)
+![](https://img.shields.io/badge/Passion-Coding-pink) ![](https://img.shields.io/badge/Style-Creative-purple) ![](https://img.shields.io/badge/Mindset-Growth-orange)
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
@@ -10,84 +10,71 @@
 
 ## 🌸 About Me
 
-💖 **Web-passionate** developer with a flair for creating beautiful, functional solutions  
-✨ **Full-stack skills** with focus on both web and mobile development  
-🎯 Currently exploring **Javascript** and **.NET** ecosystems  
-🌱 Learning about **cloud computing** and **cybersecurity**  
-💞️ Love collaborating on **community-focused projects**
+💖 Passionate web developer with expertise in creating beautiful, functional solutions across web and mobile platforms  
+✨ Full-stack developer specializing in JavaScript and .NET ecosystems  
+🎯 Currently expanding knowledge in cloud computing and cybersecurity principles  
+🌱 Actively learning advanced data science concepts and enterprise development patterns  
+💞️ Enjoy collaborating on innovative projects that positively impact communities
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-      <br>React
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-      <br>Flutter
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-      <br>Dart
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-      <br>HTML5
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-      <br>CSS3
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-      <br>Python
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-      <br>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-      <br>C++
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-      <br>C
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-      <br>Node.js
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-      <br>SQL
-    </td>
-  </tr>
-</table>
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🎨 Design & Styling
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dositha&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dositha&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+## 🌟 Featured Projects
+
+### 🚀 Web Development
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=dositha&repo=project-name&theme=radical)](https://github.com/dositha/project-name)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=dositha&repo=project-name&theme=radical)](https://github.com/dositha/project-name)
+
+### 📱 Mobile Applications
+[![Flutter Project](https://github-readme-stats.vercel.app/api/pin/?username=dositha&repo=flutter-project&theme=radical)](https://github.com/dositha/flutter-project)
 
 ## 🌟 Goals & Aspirations
-- 🚀 Specializing in **Frontend** and **Data Science** ecosystems
-- ☁️ Exploring **Devops** 
+- 🚀 Specializing in **Frontend Development** and **Data Science** ecosystems
+- ☁️ Mastering **Cloud Architecture** and **DevOps** practices
 - 💡 Building **enterprise-level software solutions**
+- 📊 Developing expertise in **data visualization** and **machine learning**
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igirimpuhwe-dosta-478a49283/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igirimpuhwedosta@gmail.com)
 
-✨ "The only way to do great work is to love what you do!" ✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igirimpuhwedosta@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+<div align="center">
+  
+✨ *"The only way to do great work is to love what you do!"* ✨
+
+</div>
+
+---
+
+⭐️ *From [Dositha](https://github.com/dositha)*
