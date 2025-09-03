@@ -44,18 +44,26 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dositha&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dositha&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhinde234&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhinde234&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhinde234&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ## 🌟 Featured Projects
 
-### 🚀 Web Development
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=dositha&repo=project-name&theme=radical)](https://github.com/dositha/project-name)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=dositha&repo=project-name&theme=radical)](https://github.com/dositha/project-name)
+### 🚀 Highlight Projects
+
+[![Tegabus](https://github-readme-stats.vercel.app/api/pin/?username=Muhinde234&repo=tegabus&theme=radical)](https://github.com/Muhinde234/tegabus)
+A comprehensive bus booking system with real-time tracking and reservation capabilities.
+
+[![SheCanCode Projects](https://github-readme-stats.vercel.app/api/pin/?username=Muhinde234&repo=shecancode-projects&theme=radical)](https://github.com/Muhinde234/shecancode-projects)
+Collection of projects developed for SheCanCode initiative, showcasing various web and mobile applications.
 
 ### 📱 Mobile Applications
-[![Flutter Project](https://github-readme-stats.vercel.app/api/pin/?username=dositha&repo=flutter-project&theme=radical)](https://github.com/dositha/flutter-project)
+[![Flutter Project](https://github-readme-stats.vercel.app/api/pin/?username=Muhinde234&repo=flutter-project&theme=radical)](https://github.com/Muhinde234/flutter-project)
 
 ## 🌟 Goals & Aspirations
 - 🚀 Specializing in **Frontend Development** and **Data Science** ecosystems
@@ -77,4 +85,6 @@
 
 ---
 
-⭐️ *From [Dositha](https://github.com/dositha)*
+⭐️ *From [Dositha](https://github.com/Muhinde234)*
+
+*514 contributions in the last year, passionate about creating impactful solutions*
