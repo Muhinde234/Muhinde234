@@ -41,26 +41,15 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhinde234&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhinde234&layout=compact&theme=radical&hide_border=true" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhinde234&theme=react-dark&hide_border=true&area=true" />
-</div>
+
+
+
 
 ## 🌟 Featured Projects
 
-### 🚀 Highlight Projects
 
-[![Tegabus](https://github-readme-stats.vercel.app/api/pin/?username=Muhinde234&repo=tegabus&theme=radical)](https://github.com/Muhinde234/tegabus)
-A comprehensive bus booking system with real-time tracking and reservation capabilities.
-
-[![SheCanCode Projects](https://github-readme-stats.vercel.app/api/pin/?username=Muhinde234&repo=shecancode-projects&theme=radical)](https://github.com/Muhinde234/shecancode-projects)
-Collection of projects developed for SheCanCode initiative, showcasing various web and mobile applications.
 
 
 
@@ -74,7 +63,7 @@ Collection of projects developed for SheCanCode initiative, showcasing various w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igirimpuhwedosta@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
 
 <div align="center">
   
@@ -84,6 +73,5 @@ Collection of projects developed for SheCanCode initiative, showcasing various w
 
 ---
 
-⭐️ *From [Dositha](https://github.com/Muhinde234)*
 
-*514 contributions in the last year, passionate about creating impactful solutions*
+
